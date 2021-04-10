@@ -1,1 +1,2 @@
 3rd Project
+3rd Project - Commit Template
